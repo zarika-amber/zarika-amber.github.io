@@ -1,0 +1,8 @@
+/* styles.css */
+body {
+	font-family: 'Courier New', Courier, monospace, sans-serif;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 50px;
+}
